@@ -18,7 +18,7 @@ CYAN    = "\033[36m"
 
 class RouterRebooter:
     def __init__(self, base_url="http://192.168.29.1/platform.cgi", 
-                 username="admin", password="Helloji@12", debug=False):
+                 username="admin", password="admin", debug=False):
         self.debug = debug
         self.base_url = base_url
         self.username = username
