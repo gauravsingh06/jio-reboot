@@ -1,6 +1,7 @@
-# Router Reboot
 
-A simple command-line utility to reboot JioFiber routers.
+![Untitled design (4)](https://github.com/user-attachments/assets/5b94cc96-e12b-4149-96ec-34385afa460f)
+# Router Reboot
+Simple script to reboot your Jio Router remotely or automatically, even if you're too lazy to unplug and replug the adapter. Effortless network reset in a few lines of code.
 
 ## Installation
 
