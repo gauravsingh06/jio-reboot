@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="jio-reboot",
-    version="0.1.0",
+    version="0.1.9",
     author="Gaurav Singh",
     author_email="hello@gauravsingh.co",
     description="A utility to reboot JioFiber router",
