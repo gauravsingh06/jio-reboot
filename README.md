@@ -24,6 +24,14 @@ jioreboot --help
 jioreboot --debug
 ```
 
+## Uninstallation
+
+To remove this package, run the following command:
+
+```bash
+pip uninstall jioreboot
+```
+
 ## Features
 
 - Securely saves router credentials for future use
