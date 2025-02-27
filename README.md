@@ -5,7 +5,7 @@ A simple command-line utility to reboot JioFiber routers.
 ## Installation
 
 ```bash
-pip install git+https://github.com/gauravsinghji06/jio-reboot.git
+pip install git+https://github.com/gauravsingh06/jio-reboot.git
 ```
 
 ## Usage
