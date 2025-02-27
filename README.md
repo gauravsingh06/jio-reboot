@@ -5,7 +5,7 @@ A simple command-line utility to reboot JioFiber routers.
 ## Installation
 
 ```bash
-pip install -e .
+pip install git+https://github.com/gauravsinghji06/jio-reboot.git
 ```
 
 ## Usage
@@ -26,7 +26,13 @@ jioreboot --debug
 
 ## Uninstallation
 
-To remove this package, run the following command:
+To remove this package, first ensure it is installed. You can check the installed packages with:
+
+```bash
+pip list
+```
+
+If `jioreboot` is listed, you can uninstall it with the following command:
 
 ```bash
 pip uninstall jioreboot
